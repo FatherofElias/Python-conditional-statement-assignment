@@ -30,7 +30,7 @@ print(f"The smallest number is: {smallest}")
 
 #Task 3 Enhance your program to handle cases where two or all of the numbers are equal
 
-# I am going to use and if statement to get and print the result along with f brackets inside my print statement to show the result of which numbers are equal and largest or if all equal
+# I am going to use an if statement to get and print the result along with f brackets inside my print statement to show the result of which numbers are equal and largest or if all equal
 
 if number_3 == number_2 > number_1:
     print(f"Two numbers are equal and the largest: Number 3 and Number 2 {number_3, number_2}")
